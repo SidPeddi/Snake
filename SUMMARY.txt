@@ -1,0 +1,77 @@
+TODO: Complete the following after you have COMPLETED your project.
+
+1. You are required to make a video for your project, as described in detail at:
+     https://docs.google.com/document/d/13O-pElAg8XwNEMFnpGXIvYZYg82xIaMHytRhTE3PHKs/edit?usp=sharing
+
+   Be sure that your video meets the requirements per the above link!
+   Be sure that your video is visible to your instructors!
+
+   What is the URL of your video?
+
+    https://www.youtube.com/watch?v=JqlU_0pAliY
+
+
+2. List the names of the team members for your project.
+
+     Ishii Daichi, Siddarth Peddi, Tulsi C Manohar
+
+3. Explain briefly what your project does and how it works.
+
+    Our project is a one player game based on Snake, the object of the game is to collect all the fish on the board after each fish is collected the avatar
+	gets one unit longer. The game ends when no more fish can spawn on the board because the length of the avatar is
+	greater than 10. The avatar can be controlled by the player using the arrow keys to move the avatar up, down, left, and right.
+	If the player does not touch any of the keys the avatar continues to move in its original direction.
+	By using the arrow keys or by allowing the avatar to continue moving forward, the
+	player must avoid running into the sides of board or into the obstacle as this results
+	in the game ending. As the avatar moves to collect the fish both the player’s score and its length increase.
+
+
+4. List the names of the classes in your project,
+   identifying who was the primary author(s) for each.
+
+    controller.py - Siddarth
+    Fish.py - Siddarth
+    Game.py - Siddarth, Ishii, Tulsi
+    main.py - Siddarth, Tulsi
+    Obstacle.py - Tulsi
+    ScoreBoard.py - Siddarth
+    Snake.py - Ishii
+    View.py - Tulsi
+
+5. List the essential features of your game, as written in your
+   Project Description, identifying who was the primary author(s) for each.
+   (For features that you did not implement, if any, indicate so.)
+
+    Essential Features
+    Moving avatar - Ishii
+    Score Tally- Siddarth
+    Background music - Siddarth
+    Fish to collect to increase score - Siddarth
+
+6. List the additional features of your game that you implemented,
+   identifying who was the primary author(s) for each.
+
+   Hit and Miss sound effects - Siddarth
+   Different fonts - Tulsi
+   Start Screen - Tulsi
+   Obstacles - Tulsi
+   Victory Screen - Siddarth
+
+7. List the external modules (libraries) that you used.
+     -- That is, list all the modules in IMPORT statements in your project.
+     -- But do NOT include here the modules that you listed in #3 above,
+          since they are INTERNAL to your project.
+
+     None
+
+8. List all media items (images, music, other graphics, etc)
+   that are not your own, and their sources (e.g. URLs).
+   [If you no longer know the source, indicate so.]
+
+   crash.wav, ding.wav are from freesound.org
+   Main Theme.wav is from the video game Wii Sports
+
+9. [Optional] Add anything here that would help us assess your
+   project fairly, beyond what you already said/showed in your video.
+
+    We used an internal font "Comicsansms" for the on screen text.
